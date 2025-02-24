@@ -2,25 +2,9 @@
 With more than ten years of experience, I am dedicated to building innovative and efficient solutions. I specialize in modern technologies across both back-end and front-end development.
 
 # 💻 Tech Stack
-<div style="display: inline_block" align="center"><br>
-  <img align="center" alt="csharp" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="dotNetCore" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg">
-  <img align="center" alt="Angular" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="TypeScrip" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="HTML5" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Git" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">   
-  <img align="center" alt="VisualStudioCode" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt="VisualStudio" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg">
-  <img align="center" alt="SqlServer" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
-  <img align="center" alt="Oracle" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg">
-  <img align="center" alt="Docker" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
-  <img align="center" alt="Azure" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg">
-  <img align="center" alt="AzureDevOps" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/azuredevops/azuredevops-original.svg">
-</div>
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-# GitHub Stats
+# 📊 GitHub Stats
 <div style="display: inline_block" align="center">
   <a href="https://github.com/andretiagoss">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andretiagoss&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
