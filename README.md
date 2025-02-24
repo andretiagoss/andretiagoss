@@ -27,5 +27,5 @@ With more than ten years of experience, I am dedicated to building innovative an
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andretiagoss&layout=compact&langs_count=7&theme=dark" />
 </div>
 
-# Socials:
+# Socials
 <p><a target="_blank" href="https://www.linkedin.com/in/andretiagoss" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
